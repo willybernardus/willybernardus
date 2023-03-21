@@ -1,6 +1,6 @@
 ### Hi there 🧑🏻‍💻
 
-- 🔭 I’m currently working on iChowa
+- 🔭 I’m currently working at iChowa. A startup based in Hong Kong, creating music lesson match making app.
 
 <!--
 **willybernardus/willybernardus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
