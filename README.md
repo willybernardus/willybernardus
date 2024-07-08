@@ -1,6 +1,6 @@
-### Halo, apa kabar?! 👋🏻 🧑🏻‍💻
-🔭 I’m currently working on willyb.co
- 🌱 I’m currently learning Full Stack Web Dev
+# Halo, apa kabar?! 👋🏻 🧑🏻‍💻
+### 🔭 I’m currently working on my personal website -> https://willyb.co
+### 🌱 I’m currently learning Full Stack Web Dev
 
 
 <!--
