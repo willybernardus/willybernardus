@@ -1,5 +1,5 @@
 # Halo, apa kabar?! 👋🏻 🧑🏻‍💻
-### 🔭 I’m currently working on my personal website -> https://willyb.co
+### 🔭 I’m currently working on my personal website -> https://willyt.co
 ### 🌱 I’m currently learning Full Stack Web Dev
 
 
